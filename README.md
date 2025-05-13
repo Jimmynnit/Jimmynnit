@@ -1,16 +1,20 @@
-## Hi there 👋
+welcome to my GitHub profile. I am a dedicated software developer. My focus is on writing clean, efficient, and maintainable code to solve real-world problems.
 
-<!--
-**Sapirrior/Sapirrior** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Skills
 
-Here are some ideas to get you started:
+- **Programming Languages**: Python, JavaScript
+- **Web Technologies**: HTML, CSS
+- **Databases**: MongoDB
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jimmynnit&show_icons=true&theme=neutral&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jimmynnit&layout=compact&theme=neutral&hide_border=true)
+
+## Connect With Me
+
+- **GitHub**: [jimmynnit](https://github.com/jimmynnit)
+- **Twitter**: [@jimmynnit](https://twitter.com/jimmynnit)
+
+Thank you for visiting my profile. Feel free to explore my repositories and reach out for collaboration opportunities.
